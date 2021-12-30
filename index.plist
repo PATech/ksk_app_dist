@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string><![CDATA[https://cdn.jsdelivr.net/gh/PATech/ksk_app_dist@latest/ipa/%E8%B7%A8%E6%97%B6%E7%A9%BA.ipa]]></string>
+          <string><![CDATA[https://ugc-ios-download-2.firshort.com/feb54ba015cfaca2527e656de21c53bae19c9837?auth_key=1640864351-0-0-cb390da8f8e6570c965da2b29cc8ce3c]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+          <string><![CDATA[https://ali-fir-pro-icon.fir-im.cn/7c4283b17b6ae9a2ff1f6b46434af5ecd6c51198?auth_key=1640864351-0-0-31f76572461505c9f3116c9a2a252fce]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,7 +25,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+          <string><![CDATA[https://ali-fir-pro-icon.fir-im.cn/7c4283b17b6ae9a2ff1f6b46434af5ecd6c51198?auth_key=1640864351-0-0-31f76572461505c9f3116c9a2a252fce]]></string>
         </dict>
       </array>
       <key>metadata</key>
@@ -37,7 +37,7 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string><![CDATA[跨时空-内测]]></string>
+        <string><![CDATA[跨时空]]></string>
       </dict>
     </dict>
   </array>
