@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>items</key>
-    <array>
+<plist version="1.0"><dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
         <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://cdn.jsdelivr.net/gh/PATech/ksk_app_dist@latest/ipa/%E8%B7%A8%E6%97%B6%E7%A9%BA.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-	        <string>com.gqmg.ksk</string>
-                <key>bundle-version</key>
-                <string>1.0.8</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>跨时空</string>
-            </dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[https://cdn.jsdelivr.net/gh/PATech/ksk_app_dist@latest/ipa/%E8%B7%A8%E6%97%B6%E7%A9%BA.ipa]]></string>
         </dict>
-    </array>
-</dict>
-</plist>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <integer>0</integer>
+          <key>url</key>
+          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.gqmg.ksk</string>
+        <key>bundle-version</key>
+        <string><![CDATA[1.0.8]]></string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string><![CDATA[跨时空-内测]]></string>
+      </dict>
+    </dict>
+  </array>
+</dict></plist>
