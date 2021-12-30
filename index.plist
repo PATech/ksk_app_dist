@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+          <string><![CDATA[https://cdn.jsdelivr.net/gh/PATech/ksk_app_dist@latest/display-image.png]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,7 +25,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[https://pro-icon-qn.fir-im.cn/aecffd2fae74cba5cc5a8309f5559e593c051090?e=1640866734&token=_Vr9k9CbrqN6dKAd18Ezner7W9yR86vNze9XcT9h:aYOQPp8P0FL69ywtbnk8ZBO9tZM=]]></string>
+          <string><![CDATA[https://cdn.jsdelivr.net/gh/PATech/ksk_app_dist@latest/full-size-image.png]]></string>
         </dict>
       </array>
       <key>metadata</key>
@@ -37,7 +37,7 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string><![CDATA[跨时空-内测]]></string>
+        <string><![CDATA[跨时空]]></string>
       </dict>
     </dict>
   </array>
