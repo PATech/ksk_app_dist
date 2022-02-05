@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>46</string>
+			<string>47</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -695,7 +695,7 @@
 				<string></string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.10</string>
+			<string>1.0.11</string>
 		</dict>
 	</array>
 </dict>
