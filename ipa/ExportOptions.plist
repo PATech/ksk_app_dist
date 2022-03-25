@@ -8,8 +8,8 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.gqmg.ksk</key>
-		<string>adhoc-com.gqmg.ksk</string>
+		<key>com.gqmg.todos</key>
+		<string>adhoc-com.gqmg.todos</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
