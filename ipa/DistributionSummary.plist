@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2071</string>
+			<string>2073</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -739,7 +739,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4e527d50-f6a0-4d22-9e0e-200a9a471029</string>
+				<string>6d9a520a-fff0-416a-ad02-82817ab2413b</string>
 				<key>dateExpires</key>
 				<string>6/24/22</string>
 				<key>name</key>
