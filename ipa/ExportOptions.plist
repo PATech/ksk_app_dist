@@ -10,6 +10,8 @@
 	<dict>
 		<key>com.gqmg.ksk</key>
 		<string>adhoc-com.gqmg.ksk</string>
+		<key>com.gqmg.ksk.banner</key>
+		<string>all-adhoc</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>

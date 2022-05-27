@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2074</string>
+			<string>2082</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -375,6 +375,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>flutter_widgetkit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>image_picker_ios.framework</string>
 					<key>team</key>
 					<dict>
@@ -694,6 +722,56 @@
 					<key>versionNumber</key>
 					<string>1.0.7</string>
 				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>G55458S7HY.com.gqmg.ksk.banner</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>G55458S7HY</string>
+						<key>get-task-allow</key>
+						<false/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>G55458S7HY.com.gqmg.ksk.banner</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>bannerExtension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>64ef2333-09da-40fd-a6d3-610664f4002a</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>name</key>
+						<string>all-adhoc</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
@@ -731,6 +809,10 @@
 				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G55458S7HY</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.com.gqmg</string>
+				</array>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -739,7 +821,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>6d9a520a-fff0-416a-ad02-82817ab2413b</string>
+				<string>ad2e54ba-8184-49c8-9c2e-f556c49ee55e</string>
 				<key>dateExpires</key>
 				<string>6/24/22</string>
 				<key>name</key>
