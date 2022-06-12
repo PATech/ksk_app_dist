@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2082</string>
+			<string>2074</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -263,6 +263,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>Sentry.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.11.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>cached_video_player.framework</string>
 					<key>team</key>
 					<dict>
@@ -273,6 +301,34 @@
 					</dict>
 					<key>versionNumber</key>
 					<string>0.0.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>device_info_plus.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -403,7 +459,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>image_picker_ios.framework</string>
+					<string>image_picker.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -432,6 +488,34 @@
 					</dict>
 					<key>name</key>
 					<string>in_app_purchase_storekit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>mz_back_plugin.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -544,6 +628,34 @@
 					</dict>
 					<key>name</key>
 					<string>quick_actions_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G55458S7HY</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E415EAF126856381D3F71F2F0DA8EFAD17DF4F8B</string>
+						<key>dateExpires</key>
+						<string>6/24/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>sentry_flutter.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -821,7 +933,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>ad2e54ba-8184-49c8-9c2e-f556c49ee55e</string>
+				<string>91d9ba46-34ec-4444-b5df-9c0cbc0d6b83</string>
 				<key>dateExpires</key>
 				<string>6/24/22</string>
 				<key>name</key>
@@ -835,7 +947,7 @@
 				<string></string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.15</string>
+			<string>1.0.16</string>
 		</dict>
 	</array>
 </dict>
