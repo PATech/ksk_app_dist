@@ -10,13 +10,13 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>4</string>
+			<string>6</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+				<string>7139A60CF89DA390E31CE8E8335CFA947F7628DE</string>
 				<key>dateExpires</key>
-				<string>7/6/23</string>
+				<string>7/18/23</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -32,9 +32,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>7139A60CF89DA390E31CE8E8335CFA947F7628DE</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>7/18/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -43,7 +43,7 @@
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>G55458S7HY</string>
+						<string>SFA6V48W29</string>
 						<key>name</key>
 						<string></string>
 					</dict>
@@ -60,9 +60,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>7139A60CF89DA390E31CE8E8335CFA947F7628DE</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>7/18/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -71,7 +71,7 @@
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>G55458S7HY</string>
+						<string>SFA6V48W29</string>
 						<key>name</key>
 						<string></string>
 					</dict>
@@ -82,7 +82,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>G55458S7HY.com.yongan.twgp</string>
+				<string>SFA6V48W29.com.yongan.twgp</string>
 				<key>aps-environment</key>
 				<string>production</string>
 				<key>com.apple.developer.associated-domains</key>
@@ -90,7 +90,7 @@
 					<string>webcredentials:kainy.cn</string>
 				</array>
 				<key>com.apple.developer.team-identifier</key>
-				<string>G55458S7HY</string>
+				<string>SFA6V48W29</string>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -99,16 +99,16 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4bf960da-f550-4c13-9a93-31eb3dacff7f</string>
+				<string>47cc6ce1-018f-4138-abd6-3311c2d5a7c9</string>
 				<key>dateExpires</key>
-				<string>7/6/23</string>
+				<string>7/18/23</string>
 				<key>name</key>
 				<string>adhoc-com.yongan.twgp</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>G55458S7HY</string>
+				<string>SFA6V48W29</string>
 				<key>name</key>
 				<string></string>
 			</dict>
