@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2088</string>
+			<string>2089</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -881,7 +881,7 @@
 					<key>entitlements</key>
 					<dict>
 						<key>application-identifier</key>
-						<string>G55458S7HY.com.gqmg.ksk</string>
+						<string>G55458S7HY.com.gqmg.ksk.banner</string>
 						<key>com.apple.developer.team-identifier</key>
 						<string>G55458S7HY</string>
 						<key>com.apple.security.application-groups</key>
@@ -896,11 +896,11 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>d98e2fec-a3a3-4215-8195-d8eee0d5a069</string>
+						<string>0aca151b-8f7b-4d14-904b-20897f6f795e</string>
 						<key>dateExpires</key>
 						<string>7/6/23</string>
 						<key>name</key>
-						<string>adhoc-com.gqmg.ksk</string>
+						<string>adhoc-com.gqmg.ksk.banner</string>
 					</dict>
 					<key>team</key>
 					<dict>
