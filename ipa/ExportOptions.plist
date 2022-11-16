@@ -8,8 +8,10 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.yongan.tiyu</key>
-		<string>adhoc-com.yongan.tiyu</string>
+		<key>com.gqmg.ksk</key>
+		<string>adhoc-com.gqmg.ksk</string>
+		<key>com.gqmg.ksk.banner</key>
+		<string>adhoc-com.gqmg.ksk.banner</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
@@ -18,7 +20,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>SFA6V48W29</string>
+	<string>G55458S7HY</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
