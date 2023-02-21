@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>20137</string>
+			<string>20140</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -571,7 +571,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>shared_preferences_ios.framework</string>
+					<string>shared_preferences_foundation.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -905,7 +905,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>d98e2fec-a3a3-4215-8195-d8eee0d5a069</string>
+				<string>326914bd-e562-4299-8396-67e5abd92905</string>
 				<key>dateExpires</key>
 				<string>7/6/23</string>
 				<key>name</key>
@@ -919,7 +919,7 @@
 				<string></string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.26</string>
+			<string>1.0.27</string>
 		</dict>
 	</array>
 </dict>
