@@ -10,13 +10,13 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>20142</string>
+			<string>20174</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+				<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 				<key>dateExpires</key>
-				<string>7/6/23</string>
+				<string>1/31/25</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -32,9 +32,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -60,9 +60,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -88,9 +88,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -116,9 +116,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -144,9 +144,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -172,9 +172,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -188,7 +188,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>7.11.0</string>
+					<string>7.31.5</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -200,9 +200,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -228,9 +228,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -256,9 +256,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -284,9 +284,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -312,9 +312,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -340,9 +340,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -368,9 +368,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -396,9 +396,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -424,9 +424,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -452,14 +452,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>path_provider_ios.framework</string>
+					<string>path_provider_foundation.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -480,9 +480,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -508,9 +508,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -536,9 +536,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -564,9 +564,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -592,9 +592,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -620,9 +620,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -636,7 +636,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.0.2</string>
+					<string>0.0.3</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -648,9 +648,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -676,9 +676,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -704,9 +704,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -732,9 +732,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -760,9 +760,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -788,9 +788,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -816,9 +816,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>35CC731579DDA0F756E8CA5B9E8F8212B6D17897</string>
+						<string>F86863BFDA64FDECE43A8726916FD40C2BF73535</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -828,10 +828,6 @@
 						<string>G55458S7HY.com.gqmg.ksk.banner</string>
 						<key>com.apple.developer.team-identifier</key>
 						<string>G55458S7HY</string>
-						<key>com.apple.security.application-groups</key>
-						<array>
-							<string>group.com.gqmg</string>
-						</array>
 						<key>get-task-allow</key>
 						<false/>
 					</dict>
@@ -840,9 +836,9 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>0aca151b-8f7b-4d14-904b-20897f6f795e</string>
+						<string>db0e88f3-b834-4717-ad46-dc18889735de</string>
 						<key>dateExpires</key>
-						<string>7/6/23</string>
+						<string>1/31/25</string>
 						<key>name</key>
 						<string>adhoc-com.gqmg.ksk.banner</string>
 					</dict>
@@ -861,42 +857,8 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>G55458S7HY.com.gqmg.ksk</string>
-				<key>aps-environment</key>
-				<string>production</string>
-				<key>com.apple.developer.associated-domains</key>
-				<array>
-					<string>applinks:kainy.cn</string>
-					<string>applinks:*.kainy.cn</string>
-					<string>webcredentials:kainy.cn</string>
-					<string>applinks:yongan.org</string>
-					<string>applinks:*.yongan.org</string>
-					<string>applinks:gqmg.com</string>
-					<string>applinks:*.gqmg.com</string>
-					<string>applinks:xn--b2w966e.xn--fiqs8s</string>
-					<string>applinks:*.xn--b2w966e.xn--fiqs8s</string>
-					<string>applinks:sbboy.com</string>
-					<string>applinks:*.sbboy.com</string>
-					<string>applinks:xn--b2w966e.cn</string>
-					<string>applinks:*.xn--b2w966e.cn</string>
-					<string>applinks:zaniliazhao.cn</string>
-					<string>applinks:*.zaniliazhao.cn</string>
-					<string>applinks:guoruixiang.cn</string>
-					<string>applinks:*.guoruixiang.cn</string>
-					<string>applinks:pafc.online</string>
-					<string>applinks:*.pafc.online</string>
-					<string>applinks:guocy.cn</string>
-					<string>applinks:*.guocy.cn</string>
-					<string>applinks:xn--evv.cn</string>
-					<string>applinks:*.xn--evv.cn</string>
-					<string>applinks:xn--fes124c.video</string>
-					<string>applinks:*.xn--fes124c.video</string>
-				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G55458S7HY</string>
-				<key>com.apple.security.application-groups</key>
-				<array>
-					<string>group.com.gqmg</string>
-				</array>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -905,9 +867,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>326914bd-e562-4299-8396-67e5abd92905</string>
+				<string>23326379-cde0-44ee-a066-f57b67525c2d</string>
 				<key>dateExpires</key>
-				<string>7/6/23</string>
+				<string>1/31/25</string>
 				<key>name</key>
 				<string>adhoc-com.gqmg.ksk</string>
 			</dict>
@@ -919,7 +881,7 @@
 				<string></string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.27</string>
+			<string>1.0.28</string>
 		</dict>
 	</array>
 </dict>
